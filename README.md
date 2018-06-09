@@ -13,6 +13,7 @@ Star : 24,426 , Fork : 14,957
 Caffe is a deep learning framework made with expression, speed, and modularity in mind.
 
 Github link : https://github.com/BVLC/caffe/
+
 History     : https://github.com/BVLC/caffe/releases/
 
 ##################################################
@@ -23,6 +24,7 @@ Star : 8,030 , Fork : 1,966
 Caffe2 is a lightweight, modular, and scalable deep learning framework. Building on the original Caffe
 
 Github link : https://github.com/caffe2/caffe2
+
 History     : https://github.com/caffe2/caffe2/releases/
 
 ##################################################
@@ -34,6 +36,7 @@ PyTorch is a Python package that provides Tensor computation (like NumPy) with s
 and Deep neural networks built on a tape-based autograd system
 
 Github link : https://github.com/pytorch/pytorch/tree/master
+
 History     : https://pytorch.org/previous-versions/
 
 ##################################################
@@ -44,6 +47,7 @@ Star : 8,279 , Fork : 2,451
 Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions.
 
 Github link : https://github.com/Theano/Theano
+
 History     : https://github.com/Theano/Theano/releases/
 
 ##################################################
@@ -55,4 +59,7 @@ TensorFlow is an open source software library for numerical computation using da
 enables you to deploy computation to one or more CPUs or GPUs in a desktop, server, or mobile device.
 
 Github link : https://github.com/tensorflow/tensorflow
+
 History     : https://github.com/tensorflow/tensorflow/releases/
+
+##################################################
