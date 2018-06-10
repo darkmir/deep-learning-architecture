@@ -144,6 +144,18 @@ History     :
 
 ##################################################
 
+DSSTNE
+Star : 4,131 , Fork : 684
+
+Deep Scalable Sparse Tensor Network Engine (DSSTNE) is an Amazon developed library 
+for building Deep Learning (DL) machine learning (ML) models.
+
+Github link : https://github.com/amzn/amazon-dsstne/
+
+History     : 
+
+##################################################
+
 Chainer
 Star : 3,864 , Fork : 1,029
 
