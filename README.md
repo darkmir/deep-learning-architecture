@@ -53,6 +53,40 @@ History     : https://pytorch.org/previous-versions/
 
 ##################################################
 
+CNTK
+Star : 14,597 , Fork : 3,878
+
+Microsoft Cognitive Toolkit (CNTK) is an open source deep-learning toolkit and 
+allows users to realize and combine popular model.
+
+Github link : https://github.com/Microsoft/CNTK/
+
+History     : https://github.com/Microsoft/CNTK/releases/
+
+##################################################
+
+MXNet
+Star : 14,143 , Fork : 5,214
+
+Apache MXNet (incubating) is a deep learning framework designed for both efficiency and flexibility.
+
+Github link : https://github.com/apache/incubator-mxnet/
+
+History     : https://github.com/apache/incubator-mxnet/releases/
+
+##################################################
+
+ConvNetJS
+Star : 9,125 , Fork : 1,815
+
+Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
+
+Github link : https://github.com/karpathy/convnetjs/
+
+History     : https://github.com/karpathy/convnetjs/releases/
+
+##################################################
+
 Deeplearning4j
 Star : 9,083 , Fork : 4,290
 
@@ -74,6 +108,17 @@ Theano is a Python library that allows you to define, optimize, and evaluate mat
 Github link : https://github.com/Theano/Theano/
 
 History     : https://github.com/Theano/Theano/releases/
+
+##################################################
+
+Darknet
+Star : 8,180 , Fork : 4,146
+
+Darknet is an open source neural network framework written in C and CUDA and supports CPU and GPU computation.
+
+Github link : https://github.com/pjreddie/darknet/
+
+History : 
 
 ##################################################
 
@@ -110,14 +155,45 @@ History     : https://github.com/chainer/chainer/releases/
 
 ##################################################
 
+neon
+Star : 3,561 , Fork : 799
+
+neon is Intel's reference deep learning framework committed to best performance on all hardware.
+
+Github link : https://github.com/NervanaSystems/neon/
+
+History     : https://github.com/NervanaSystems/neon/releases/
+
+##################################################
+
 BrainStorm
 Star : 1,279 , Fork : 153
 
 Brainstorm makes working with neural networks fast, flexible and fun.
 no longer being maintained
 
-Github link : https://github.com/IDSIA/brainstorm
+Github link : https://github.com/IDSIA/brainstorm/
 
 History     : https://github.com/IDSIA/brainstorm/releases
 
 ##################################################
+
+Mocha
+Star : 1,047 , Fork : 239
+
+Mocha is a Deep Learning framework for Julia.
+
+Github link : https://github.com/pluskid/Mocha.jl/
+
+History     : https://github.com/pluskid/Mocha.jl/releases/
+
+##################################################
+
+Marvin
+Star : 393 , Fork : 137
+
+Marvin is a GPU-only neural network framework.
+
+Github link : https://github.com/PrincetonVision/marvin/
+
+History     : https://github.com/PrincetonVision/marvin/releases/
