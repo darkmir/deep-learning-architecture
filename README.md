@@ -155,6 +155,16 @@ History     : https://github.com/PaddlePaddle/Paddle/releases/
 
 ##################################################
 
+Leaf
+Star : 5,281 , Fork : 269
+
+Leaf is a open Machine Learning Framework for hackers to build classical, deep or hybrid machine learning applications.
+
+Github link : https://github.com/autumnai/leaf/
+
+History     : https://github.com/autumnai/leaf/releases/
+
+
 DSSTNE
 Star : 4,131 , Fork : 684
 
