@@ -2,7 +2,7 @@
 Collection of the deep learning architectures
 
 We will rank all the deep learning frameworks by stars ascending orders.
-Last Updated : 9/Jun/2018
+Last Updated : 10/Jun/2018
 
 
 ##################################################
@@ -141,6 +141,17 @@ Torch is the main package in Torch7 for multi-dimensional tensors and mathematic
 Github link : https://github.com/torch/torch7/
 
 History     : 
+
+##################################################
+
+PaddlePaddle
+Star : 7,044 , Fork : 1,927
+
+PaddlePaddle is an easy-to-use, efficient, flexible and scalable deep learning platform.
+
+Github link : https://github.com/PaddlePaddle/Paddle/
+
+History     : https://github.com/PaddlePaddle/Paddle/releases/
 
 ##################################################
 
